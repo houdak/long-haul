@@ -16,6 +16,8 @@ navigation:
    url: /
  - title: About
    url: /about
+ - title: Publications
+   url: /pubs
  - title: Resources
    url: /resources
 
