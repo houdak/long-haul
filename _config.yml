@@ -16,14 +16,5 @@ navigation:
    url: /
  - title: About
    url: /about
- - title: CV
-   url: /CV
-
-social:
-   email: hkhaled@jhu.edu
-   github: houdak
-   twitter: 
-   facebook:
-   linkedin: https://www.linkedin.com/in/houda-khaled/
 
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
