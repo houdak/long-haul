@@ -16,7 +16,7 @@ navigation:
    url: /
  - title: About
    url: /about
-- title: CV
+ - title: CV
    url: /CV
 
 social:
