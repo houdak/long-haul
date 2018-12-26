@@ -16,5 +16,7 @@ navigation:
    url: /
  - title: About
    url: /about
+ - title: Resources
+   url: /resources
 
 google_analytics: UA-131352185-1
