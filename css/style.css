@@ -512,7 +512,7 @@ BUTTON DEFAULTS
     top: 1px; }
 
 .button-secondary {
-  background-color: #233E5B; }
+  background-color: #C1205B; }
   .button-secondary:hover {
     background-color: #152536; }
 
@@ -658,7 +658,7 @@ th {
 
 .highlight .m, .highlight .nb, .highlight .no, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .mo,
 .highlight .il {
-  color: #8ae234; }
+  color: #c1205b; }
 
 .highlight .o {
   color: #989DAA; }
@@ -706,7 +706,7 @@ LINK STYLING
 a {
   color: #c1205b; }
   a:hover {
-    color: #1b5233; }
+    color: #c1205b; }
 
 /***************
 MENU STYLING
@@ -723,7 +723,7 @@ MENU STYLING
       width: 100%;
       display: block;
       background: #c1205b;
-      border-bottom: 2px solid #349e63; }
+      border-bottom: 2px solid #c1205b; }
       .nav-collapse ul li a {
         color: white;
         text-decoration: none;
