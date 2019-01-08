@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Post & Goals
-date: 2018-12-14
+date: 2018-12-24
 ---
 
 <p class="intro"><span class="dropcap">H</span>ello everyone! I am in the middle of applying for my PhD, and have been spending some time reflecting on my path thus far as well as my hopes for the future. What I've come to appreciate is the great number of people who have helped me along the way and played a huge part in my career thus far.</p>
