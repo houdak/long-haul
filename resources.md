@@ -13,8 +13,8 @@ title: Resources
 	<p><a href="https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications/?fbclid=IwAR1WRay6NS5gGQeGGBk4a05WBudMPlM_70R2k3QdJHDu9lqtHVmVVCAHilc">Lucy Blogs</a>: Great overview of the PhD application process from a current PhD student in Neuroscience.<br>
 	<a href="https://www.cientificolatino.com/">Cientifico Latino</a>: Hosts a wealth of information for young scientists, including sample personal statements, lists of (free!) diversity preview events, and more.<br>
 	<a href="https://docs.google.com/spreadsheets/d/11L5FkKLRYaKf7xj2R55Mcd-Vlb4drHjN9H1gmUiDofk/edit#gid=0">Grad Student/Post-Doc Websites</a>: Google Sheet with tons of examples of academic websites, as inspiration for making one for yourself.<br>
-	<a href="http://womenincocosci.com/science.html">womenincocosci</a>: A website by Vael Gates, fellow Wellesley alum (woo!) and current PhD student in neuroscience. Features tons of advice useful for undergrads as well as current grad students.
-
+	<a href="http://womenincocosci.com/science.html">womenincocosci</a>: A website by Vael Gates, fellow Wellesley alum (woo!) and current PhD student in neuroscience. Features tons of advice useful for undergrads as well as current grad students.<br>
+	<a href="https://vanderbiltbiomedg.com/">Materials & Methods</a>: A blog by faculty and students of the Vanderbilt Biomedical Graduate programs. Includes advice on applying to biomedical graduate programs, with lots of input from faculty and admission committee members.
 </p>
 
 
