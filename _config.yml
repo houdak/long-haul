@@ -14,8 +14,6 @@ paginate: 5
 navigation:
  - title: Home
    url: /
- - title: Blog
-   url: /blog
  - title: Publications
    url: /pubs
  - title: Resources
