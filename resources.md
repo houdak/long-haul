@@ -6,7 +6,8 @@ title: Resources
 	<h1 class="pageTitle">Resources</h1>
 	<h3>Mentoring Opportunities & Advice</h3>
 	<p><a href="https://www.nyas.org/programs/global-stem-alliance/1000-girls-1000-futures/">1000 Girls, 1000 Futures</a>: Virtual mentorship by female STEM professionals for high school girls (ages 13-18) around the world interested in STEM fields.<br>
-	<a href="https://books.google.jo/books?id=BMBKb8fOBY4C&lpg=PR7&ots=qPnQEFUYJV&dq=Getting%20the%20Most%20out%20of%20Your%20Mentoring%20Relationships%3A%20A%20Handbook%20for%20Women&pg=PP1#v=onepage&q&f=false">Getting the Most out of Your Mentoring Relationships</a>: A detailed guidebook for women in STEM. I have not read it all, but what I have read has been handy!
+	<a href="https://books.google.jo/books?id=BMBKb8fOBY4C&lpg=PR7&ots=qPnQEFUYJV&dq=Getting%20the%20Most%20out%20of%20Your%20Mentoring%20Relationships%3A%20A%20Handbook%20for%20Women&pg=PP1#v=onepage&q&f=false">Getting the Most out of Your Mentoring Relationships</a>: A detailed guidebook for women in STEM. I have not read it all, but what I have read has been handy!<br>
+	<a href="https://www.ustrive.com/">UStrive College Mentoring</a>: Free online mentoring for high school students applying to college!
 </p>
 
 	<h3>PhD & Fellowship Advice</h3>
